@@ -4,7 +4,7 @@
 
 # 1조 역할분담
 
-## 곽성화 : itanic 데이터 분석
+## 곽성화 : Titanic 데이터 분석
 ## 김도영 : Pima Indians Diabetes 데이터 분석
 ## 손병립 : 팀장
 ## 이재훈 : House Price 데이터 분석
